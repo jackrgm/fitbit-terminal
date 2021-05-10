@@ -1,0 +1,4 @@
+<svg class="background">
+  <text id="label_date"/>
+  <text id="label_time"/>
+</svg>
