@@ -1,0 +1,23 @@
+.background {
+  viewport-fill: #1c2b3f;
+}
+
+#label_date {
+  font-size: 40;
+  font-family: Colfax-Medium;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%+0;
+  fill: #5598fc;
+}
+
+#label_time {
+  font-size: 100;
+  font-family: Colfax-Medium;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+20;
+  fill: #5598fc;
+}
